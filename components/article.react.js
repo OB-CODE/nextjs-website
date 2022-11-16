@@ -19,7 +19,7 @@ const ArticleContent = styled.div`
     text-align: left;
     text-size-adjust: 100%;
     color: rgba(0,0,0,0.6);
-    margin-bottom: 40px;
+    margin-bottom: 60px;
 `;
 
 export default function Article() {
